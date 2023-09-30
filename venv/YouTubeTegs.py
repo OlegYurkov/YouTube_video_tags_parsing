@@ -1,4 +1,6 @@
-
+# pip install requests
+# pip install beautifulsoup4
+# pip install openpyxl
 
 import requests
 from bs4 import BeautifulSoup
